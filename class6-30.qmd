@@ -1,0 +1,14 @@
+---
+title: "Class 6/30"
+format: html
+execute:
+    echo: false
+---
+
+
+```{r}
+#| message: false
+#| echo: false
+library(tidyverse)
+library(primer.data)
+```
